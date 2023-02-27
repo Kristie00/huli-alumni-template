@@ -11,9 +11,9 @@ Email: kri.kafkova@seznam.cz
 Final DE GFA project: https://github.com/Kristie00/GFA-final-project--ETL-pipeline
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
+LeetCode: https://leetcode.com/Kristie00
 
-Hackerrank: https://www.hackerrank.com/Kristie00
+Hackerrank: https://www.hackerrank.com/kri_kafkova
 
 Codewars: https://www.codewars.com/users/Kristie00
 
